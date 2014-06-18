@@ -269,3 +269,6 @@ a#close {
 	font-style: italic;
 	text-transform: capitalize;
 }
+.word-count {
+	color: red;
+}
